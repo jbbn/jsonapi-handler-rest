@@ -1,0 +1,16 @@
+{
+  "name": "jsonapi-handler-rest",
+  "version": "0.0.0",
+  "description": "A rest handler for jsonapi-server",
+  "main": "lib/restHandler.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbbn/jsonapi-handler-rest.git"
+  },
+  "author": "João Bueno <joaobbn@gmail.com (https://github.com/jbbn)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "debug": "^3.1.0"
+  }
+}
