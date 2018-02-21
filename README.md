@@ -41,10 +41,10 @@ jsonApi.define({
 
 ## Features
 
-- Search
+- Search, Find
 
 ### TODO
 
 - Tests, coverage
-- Find, Create, Delete, Update
+- Create, Delete, Update
 - Filtering, pagination and sorting
