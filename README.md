@@ -45,4 +45,6 @@ jsonApi.define({
 
 ### TODO
 
+- Tests, coverage
 - Find, Create, Delete, Update
+- Filtering, pagination and sorting
