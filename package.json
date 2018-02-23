@@ -9,6 +9,10 @@
   },
   "author": "João Bueno <joaobbn@gmail.com (https://github.com/jbbn)",
   "license": "MIT",
+  "scripts": {
+    "start": "echo",
+    "dev": "echo"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "debug": "^3.1.0"
