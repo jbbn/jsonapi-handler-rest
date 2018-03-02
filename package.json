@@ -1,6 +1,6 @@
 {
   "name": "jsonapi-handler-rest",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A rest handler for jsonapi-server",
   "main": "lib/restHandler.js",
   "repository": {
